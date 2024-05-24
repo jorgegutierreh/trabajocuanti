@@ -1,0 +1,9 @@
+---
+title: "Untitled"
+format: html
+editor: visual
+bibliography: Meritocracia.bib
+link-citations: true
+---
+
+## blbabal @mijsParadoxInequalityIncome2021

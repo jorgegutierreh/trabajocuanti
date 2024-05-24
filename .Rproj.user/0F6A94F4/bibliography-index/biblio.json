@@ -1,0 +1,75 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1093/ser/mwy051",
+            "ISSN": "1475-1461, 1475-147X",
+            "abstract": "Abstract Inequality is on the rise: gains have been concentrated with a small elite, while most have seen their fortunes stagnate or fall. Despite what scholars and journalists consider a worrying trend, there is no evidence of growing popular concern about inequality. In fact, research suggests that citizens in unequal societies are less concerned than those in more egalitarian societies. How to make sense of this paradox? I argue that citizens’ consent to inequality is explained by their growing conviction that societal success is reflective of a meritocratic process. Drawing on 25 years of International Social Survey Program data, I show that rising inequality is legitimated by the popular belief that the income gap is meritocratically deserved: the more unequal a society, the more likely its citizens are to explain success in meritocratic terms, and the less important they deem nonmeritocratic factors such as a person’s family wealth and connections.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        5,
+                        24
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Mijs",
+                    "given": "Jonathan J B"
+                }
+            ],
+            "container-title": "Socio-Economic Review",
+            "id": "mijsParadoxInequalityIncome2021",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        7
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "7-35",
+            "title": "The paradox of inequality: Income inequality and belief in meritocracy go hand in hand",
+            "title-short": "The paradox of inequality",
+            "type": "article-journal",
+            "volume": "19"
+        },
+        {
+            "genre": "Article",
+            "id": "zotero-1",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1093/ser/mwy051",
+            "id": "zotero-2",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Bauman",
+                    "given": "Zygmunt"
+                }
+            ],
+            "edition": "Tercera",
+            "id": "bauman2017",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "language": "español",
+            "publisher": "Fonde de Cultura Economica",
+            "publisher-place": "Ciudad de Mexico, Mexico",
+            "title": "La globalización: Consecuencias Humanas",
+            "title-short": "La globalización",
+            "type": "book"
+        }
+    ],
+    "project_biblios": []
+}
